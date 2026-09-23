@@ -30,7 +30,8 @@
 ```
 ### 第三步：控制台命令生成假人
 服务器完全启动（控制台输出 Done!）后，直接在 网页控制台 (Console) 输入以下命令并回车（注：控制台输入命令不需要加斜杠 /）：
-```marionette spawn bot1 world 0 100 0
+```
+marionette spawn bot1 world 0 100 0
 ```
 
 游戏内使用：若玩家已进入游戏，亦可输入：/marionette spawn bot1
