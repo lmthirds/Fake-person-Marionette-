@@ -9,10 +9,6 @@
 | 项目名称 | 说明 | 官方下载 / 项目链接 |
 | :--- | :--- | :--- |
 | **Marionette** | 核心假人插件（零前置依赖，推荐） | [SpigotMC 下载页](https://www.spigotmc.org/resources/marionette-fake-players.136068/) / [GitHub 仓库](https://github.com/synthet1cc/Marionette) |
-| **PaperMC** | 高性能 Minecraft 服务端 | [PaperMC 官方下载](https://papermc.io/downloads/paper) |
-| **fakeplayer** | 备用假人插件（需 CommandAPI） | [GitHub Releases](https://github.com/hello09x/fakeplayer/releases) |
-| **EssentialsX** | 基础指令与管理插件 | [EssentialsX 官网](https://essentialsx.net/downloads.html) |
-| **ViaVersion** | 跨版本匹配与兼容插件 | [Hangar 官方下载](https://hangar.papermc.io/ViaVersion/ViaVersion) |
 
 ---
 
