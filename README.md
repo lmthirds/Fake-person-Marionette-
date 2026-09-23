@@ -31,11 +31,13 @@
 [INFO] Enabling Marionette v0.1.1
 [INFO] Marionette-datasource - Start completed.
 
-
+```
 ### 第三步：控制台命令生成假人
 服务器完全启动（控制台输出 Done!）后，直接在 网页控制台 (Console) 输入以下命令并回车（注：控制台输入命令不需要加斜杠 /）：
-
+```
 marionette spawn bot1 world 0 100 0
+
+```
 
 游戏内使用：若玩家已进入游戏，亦可输入：/marionette spawn bot1
 保活原理：执行后服务器在线人数将常态化保持为 1/20，Minekeep 面板检测到持续有玩家在线，即可彻底防止服务器因为无人在线而触发自动暂停/关机机制。
